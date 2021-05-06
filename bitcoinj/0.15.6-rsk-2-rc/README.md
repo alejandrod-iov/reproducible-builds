@@ -13,7 +13,7 @@ $ docker build -t bitcoinj-0.15.6-rsk-2-rc . --no-cache
 
 ```
 $ docker run --rm bitcoinj-0.15.6-rsk-2-rc sha256sum /code/bitcoinj/core/build/libs/bitcoinj-core-0.15.6-rsk-2-rc.jar
-1b72329fbe3bbe910fd6328435fc2df3ee67fd3d4b61e4bdb72828ecb2868a9c  /code/bitcoinj/core/build/libs/bitcoinj-core-0.15.6-rsk-2-rc.jar
+2dfa7e0e797cc61c5503768d6cad84851eea3bcbecfb08ed35033ae1f391505d  /code/bitcoinj/core/build/libs/bitcoinj-core-0.15.6-rsk-2-rc.jar
 ```
 
 ## (Optional) Extract JAR from image
